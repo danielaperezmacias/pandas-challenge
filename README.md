@@ -14,4 +14,4 @@ The data for the challenge was taken from two files:
 2.	students_complete.csv
 
 The two datasets were combined into one called school_data_complete, that was used for the requirements listed above. 
-![image](https://github.com/danielaperezmacias/pandas-challenge/assets/123903889/f40be1ae-fe10-40bf-b9d2-0736a03d8455)
+
